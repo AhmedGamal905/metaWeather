@@ -1,16 +1,12 @@
-# metaweather
+# MetaWeather
 
-A new Flutter project.
+A Weather app build-in Flutter/Dart, Which can help you with the weather updates. Used Bloc Pattern in this app as a state management to fitch an API which separate the UI apart from the logic part. 
 
-## Getting Started
+## Download Apk
 
-This project is a starting point for a Flutter application.
+[MetaWeather.apk](https://www.mediafire.com/file/3g9oe4ssljt2lzn/metaWeather.apk/file)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+<p align="center">
+    <img src="/Screenshots/ScreenShot.jpg?raw=true" height="600">
+</p>
